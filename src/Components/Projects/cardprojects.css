@@ -1,0 +1,66 @@
+.cont-project-card {
+    max-width: 900px;
+    min-width: 300px;
+    width: 820px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    color: white;
+    font-family: 'Outfit', sans-serif;
+    background-color: #1e293b;
+    border-radius: 10px;
+}
+.color-word{
+    color: #14b4ea;
+}
+.cont-text-projects{
+    max-width: auto;
+    line-height: 24px;
+}
+
+.cont-img {
+    width: 160px;
+    height: 160px;
+    display: flex;
+}
+.title-tag{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 8px;
+    
+}
+
+.text-react {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: auto;
+    color: #26344b;
+    background-color: #61dafb;
+    border-radius: 5px;
+}
+
+.text-typescript {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: auto;
+    color: #26344b;
+    background-color: #3178c6;
+    border-radius: 5px;
+}
+
+.text-redux {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 105px;
+    height: auto;
+    color: #26344b;
+    background-color: #ba8fff;
+    border-radius: 5px;
+}

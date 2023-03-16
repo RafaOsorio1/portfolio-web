@@ -1,0 +1,8 @@
+.description-avatar {
+    width: 16rem;
+    height: 18rem;
+    background-image: url('../../assets/avatar.svg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
